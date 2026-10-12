@@ -1,9 +1,9 @@
-# Jacky Fix — Portfolio
+# ClearFix — Portfolio
 
 Single-page professional portfolio for remote QA & light automation (Hong Kong).
 
 ## Brand
-- Primary: **Jacky Fix**
+- Primary: **ClearFix**
 - Fiverr alias: Jacky Lee / `jackyfixhtmljs`
 
 ## Local preview
